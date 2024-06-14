@@ -23,7 +23,7 @@ namespace Project_C_Books_Management
         public Form1()
         {
             InitializeComponent();
-            con.Open();
+            //con.Open();
         }
 
         private void bunifuImageButton1_Click(object sender, EventArgs e)
